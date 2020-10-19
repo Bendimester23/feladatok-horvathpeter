@@ -1,0 +1,71 @@
+.download {
+	color: #ff0000;
+	position: absolute;
+	 right: 20px;
+	 bottom: 10px;
+}
+.gomb {
+	border-color: #ff0000;
+	position: absolute;
+	left: 35%;
+	cursor: pointer;
+	
+}
+.gomb:hover {
+	background: #c40404;
+	}
+.gomb:active {
+	background:#ff0000
+}
+.keep {
+	position: absolute;
+	left: 23%;
+}
+.gombb {
+	border-color: #ff0000;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	cursor: pointer;
+}
+.gombb:hover {
+	background: #c40404;
+	}
+.gombb:active {
+	background:#ff0000
+}
+body {
+	background-color: #000000;
+}
+p {
+	color: red;
+}
+a {
+	color: pink;
+}
+b:hover {
+	color: lime;
+}
+h1 {
+	color:red;
+}
+a:active {
+  color: yellow;
+}
+.btn {
+	position: absolute;
+	left: 0px;
+	bottom: 3px;
+  border: none;
+  color: black;
+  background-color: inherit;
+}
+
+.btn:hover {
+	color: lime;
+	background: #c40404;
+}
+.btn:active {
+	color: lime;
+	background:#ff0000
+}
